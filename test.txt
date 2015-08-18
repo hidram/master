@@ -3,3 +3,5 @@ pasos:
 paso1: Agregar cambios al repositorio
 
 paso2: checkout cambios 
+
+paso3: creando una rama para hacer pruebas
