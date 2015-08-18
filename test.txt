@@ -1,0 +1,3 @@
+pasos:
+
+paso1: agregar cambios al repositorio
