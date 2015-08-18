@@ -1,3 +1,5 @@
 pasos:
 
-paso1: agregar cambios al repositorio
+paso1: Agregar cambios al repositorio
+
+paso2: checkout cambios 
